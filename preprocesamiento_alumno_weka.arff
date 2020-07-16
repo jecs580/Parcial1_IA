@@ -1,0 +1,28 @@
+@relation alumno-weka.filters.unsupervised.attribute.Remove-R1-2-weka.filters.unsupervised.attribute.MakeIndicator-C1-Vlast-weka.filters.unsupervised.attribute.ReplaceMissingValues-weka.filters.unsupervised.attribute.ReplaceMissingValues
+
+@attribute sexo numeric
+@attribute departamento {LP,CBBA,SC}
+@attribute nota_promedio numeric
+@attribute edad numeric
+
+@data
+0,LP,65,23
+0,LP,70,22
+1,LP,56,23
+0,CBBA,68,26
+1,LP,68.388889,21
+0,SC,61,23
+1,SC,59,22
+1,LP,60,23
+0,LP,65,23.666667
+0,LP,58,27
+1,LP,68,25
+0,LP,54,26
+0,LP,74,23.666667
+1,LP,90,23
+0,LP,92,23
+0,LP,70,24
+1,LP,70,28
+0,LP,87,20
+0,CBBA,64,23
+1,LP,68.388889,24
